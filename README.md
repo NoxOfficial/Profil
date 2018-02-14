@@ -4,22 +4,22 @@
 ## Summary
 - **0**: Profil
   - **0.0**: Summary
-- **1**: ![About me](#about_me)
-  - **1.0**: ![History](#history)
-  - **1.1**: ![Studies](#studies)
-  - **1.2**: ![Proof of Work](#proof_of_work)
-  - **1.3**: ![Personnality](#personnality)
-- **2**: ![Skills](#skills)
-  - **2.0**: ![Primary skill](#primary_skill)
-  - **2.1**: ![Information science](#information_science)
-  - **2.2**: ![Programmation](programmation)
-  - **2.3**: ![Security](#security)
-- **3**: ![Projects above all](#projects_above_all)
-  - **3.0**: ![Ideas](#ideas)
-  - **3.1**: ![Open World](#open_world)
-  - **3.1**: ![A new_OS](#a_new_os)
-  - **3.2**: ![Crypto](#crypto)
-  - **3.3**: ![Funny](#funny)
+- **1**: ![About me](/README.md#about-me)
+  - **1.0**: ![History](/README.md#history)
+  - **1.1**: ![Studies](/README.md#studies)
+  - **1.2**: ![Proof of Work](/POW.md)
+  - **1.3**: ![Personnality](/README.md#personnality)
+- **2**: ![Skills](/README.md#skills)
+  - **2.0**: ![Primary skill](/README.md#primary-skill)
+  - **2.1**: ![Information science](/README.md#information-science)
+  - **2.2**: ![Programmation](/README.md#programmation)
+  - **2.3**: ![Security](/README.md#security)
+- **3**: ![Projects above all](/README.md#projects-above-all)
+  - **3.0**: ![Ideas](/README.md#ideas)
+  - **3.1**: ![Open World](/README.md#open-world)
+  - **3.1**: ![A new_OS](/README.md#a-new-os)
+  - **3.2**: ![Crypto](/README.md#crypto)
+  - **3.3**: ![Funny](/README.md#funny)
 ***
 
 # About me
