@@ -31,7 +31,7 @@
 >
 > - [```Send me an e-mail```][email].
 >
-> - [```Call me ``` :gift_heart:][Call me].
+> - [```Call me ```:heavy_plus_sign::fr: :six::five::seven::nine::three::information_source::gift_heart:][Call me].
 >
 > Which languages ? English and French (prefered).
 ***
