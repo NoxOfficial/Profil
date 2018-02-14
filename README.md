@@ -1,10 +1,11 @@
-# ![Image](https://avatars1.githubusercontent.com/u/35545973?s=256&v=3) Profil
+# [![Image](https://avatars1.githubusercontent.com/u/35545973?s=256&v=3) Presentation][0]
 ## Intro
 > This is my introduction
 ***
 ## Summary
-- **0**: Profil
+- **0**: [Profil][1]
   - **0.0**: Summary
+  - **0.1**: [Contact][contact]
 - **1**: ![About me](/Profil.md#about-me)
   - **1.0**: ![History](/Profil.md#history)
   - **1.1**: ![Studies](/Profil.md#studies)
@@ -24,5 +25,18 @@
 ***
 
 ## Contact
-> contact me
+> How to contact me ?
+- [```Send me a letter```][paper].
+
+- [```Send me an e-mail```][email].
+
+- [```Call me ``` :gift_heart:][Call me].
+
 ***
+
+[0]: https://github.com/NoxCorp-Official/members
+[1]: #presentation
+[contact]: #contact
+[email]: mailto://pro.nitro@gmail.com
+[paper]: https://docs.google.com/
+[Call me]: https://www.youtube.com/watch?v=7gW6WcwNirk
