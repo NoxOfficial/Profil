@@ -1,6 +1,7 @@
 # ![Image](https://avatars1.githubusercontent.com/u/35545973?s=256&v=3) Profil
 ## Intro
 > This is my introduction
+***
 ## Summary
 - **0**: Profil
   - **0.0**: Summary
@@ -22,27 +23,6 @@
   - **3.3**: ![Funny](/README.md#funny)
 ***
 
-# About me
-
-## History
-## Studies
-## Proof of work
-## Personnality
-***
-
-# Skills
-
-## Primary skill
-## Information science
-## Programmation
-## Security
-***
-
-# Project above all
-
-## Ideas
-## Open world
-## A new OS
-## Crypto
-## Funny
+## Contact
+> contact me
 ***
