@@ -1,25 +1,23 @@
 # ![Image](https://avatars1.githubusercontent.com/u/35545973?s=256&v=3) Profil
-## Intro
-> This is my introduction
 ## Summary
 - **0**: Profil
   - **0.0**: Summary
-- **1**: ![About me](#about-me)
-  - **1.0**: ![History](#history)
-  - **1.1**: ![Studies](#studies)
+- **1**: ![About me](/Profil.md#about-me)
+  - **1.0**: ![History](/Profil.md#history)
+  - **1.1**: ![Studies](/Profil.md#studies)
   - **1.2**: ![Proof of Work](/POW.md)
-  - **1.3**: ![Personnality](#personnality)
-- **2**: ![Skills](#skills)
-  - **2.0**: ![Primary skill](#primary-skill)
-  - **2.1**: ![Information science](#information-science)
-  - **2.2**: ![Programmation](#programmation)
-  - **2.3**: ![Security](#security)
-- **3**: ![Projects above all](#projects-above-all)
-  - **3.0**: ![Ideas](#ideas)
-  - **3.1**: ![Open World](#open-world)
-  - **3.1**: ![A new_OS](#a-new-os)
-  - **3.2**: ![Crypto](#crypto)
-  - **3.3**: ![Funny](#funny)
+  - **1.3**: ![Personnality](/Profil.md#personnality)
+- **2**: ![Skills](/Profil.md#skills)
+  - **2.0**: ![Primary skill](/Profil.md#primary-skill)
+  - **2.1**: ![Information science](/Profil.md#information-science)
+  - **2.2**: ![Programmation](/Profil.md#programmation)
+  - **2.3**: ![Security](/Profil.md#security)
+- **3**: ![Projects above all](/Profil.md#projects-above-all)
+  - **3.0**: ![Ideas](/Profil.md#ideas)
+  - **3.1**: ![Open World](/Profil.md#open-world)
+  - **3.1**: ![A new_OS](/Profil.md#a-new-os)
+  - **3.2**: ![Crypto](/Profil.md#crypto)
+  - **3.3**: ![Funny](/Profil.md#funny)
 ***
 
 # About me
