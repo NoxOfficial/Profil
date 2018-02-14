@@ -5,29 +5,29 @@
 ## Summary
 - **0**: Profil
   - **0.0**: Summary
-- **1**: [About me][00]
-  - **1.0**: ![History][01]
-  - **1.1**: ![Studies][02]
-  - **1.2**: ![Proof of Work][03]
-  - **1.3**: ![Personnality][04]
-- **2**: ![Skills][10]
-  - **2.0**: ![Primary skill][11]
-  - **2.1**: ![Information science][12]
-  - **2.2**: ![Programmation][13]
-  - **2.3**: ![Security][14]
-- **3**: ![Projects above all][20]
-  - **3.0**: ![Ideas][21]
-  - **3.1**: ![Open World][22]
-  - **3.1**: ![A new_OS][23]
-  - **3.2**: ![Crypto][24]
-  - **3.3**: ![Funny][25]
+- **1**: [About me][Ab0]
+  - **1.0**: [History][Hi1]
+  - **1.1**: [Studies][St2]
+  - **1.2**: [Proof of Work][PoW3]
+  - **1.3**: [Personnality][Pe4]
+- **2**: [Skills][10]
+  - **2.0**: [Primary skill][11]
+  - **2.1**: [Information science][12]
+  - **2.2**: [Programmation][13]
+  - **2.3**: [Security][14]
+- **3**: [Projects above all][20]
+  - **3.0**: [Ideas][21]
+  - **3.1**: [Open World][22]
+  - **3.1**: [A new_OS][23]
+  - **3.2**: [Crypto][24]
+  - **3.3**: [Funny][25]
 ***
 
 # About me
 
 ## History
 ## Studies
-## [Proof of work][03]
+## [Proof of work][PoW3]
 ## Personnality
 ***
 
@@ -49,11 +49,11 @@
 ***
 
 [0]: https://github.com/orgs/NoxCorp-Official/people
-[00]: #about-me
-[01]: #history
-[02]: #studies
-[03]: /POW.md
-[04]: #personnality
+[Ab0]: #about-me
+[Hi1]: #history
+[St2]: #studies
+[PoW3]: /POW.md
+[Pe4]: #personnality
 [10]: #skills
 [11]: #primary-skills
 [12]: #information-science
